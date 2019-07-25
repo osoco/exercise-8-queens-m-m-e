@@ -53,7 +53,6 @@ Represents a position in the chess board.
 ```
 row(): Number
 ```
-
 A number ranging from 1 to 8.
 
 ```
